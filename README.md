@@ -1,1 +1,9 @@
 # Data_Projects_TripleTen
+Projects I worked on while attending the TripleTen Business Intelligence Analytics Bootcamp.
+
+
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | E-Commerce Company: Business Analytics Report| Project Task: Analyze the raw transactions of an e-commerce company to see how well the website is converting product page views into purchases. |
+| 2 | NYC Airbnb: Vacation Rental Market Analysis | Project Task: Analyze the vacation rental market in the Manhattan borough of New York City to identify multiple investment opportunities. |
+| 3 | Saving SuperStore | Project Task: Review the superstore’s operations and gather insights to increase its profitability and avoid bankruptcy. Justify arguments with data visualizations. |
